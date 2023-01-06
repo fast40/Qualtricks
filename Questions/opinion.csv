@@ -1,0 +1,502 @@
+ResponseId,R_ID,category,catID,qID,OpinionQ,id,newid
+R_1Cke06fJLEt2pGD,1,opinion,1,1,What is your opinion on abortion?,R_1Cke06fJLEt2pGD-opinion-1,1/1/01
+R_3mdxlIux5uvPqYR,2,opinion,1,2,Do you think the BLM founders deserved to buy multi million dollar mansions?,R_3mdxlIux5uvPqYR-opinion-2,2/1/02
+R_2c8gvqdZGnQB8Z5,3,opinion,1,3,Are drag queens dangerous?,R_2c8gvqdZGnQB8Z5-opinion-3,3/1/03
+R_4ZMn95SI8zA8DlL,4,opinion,1,4,Under what conditions would you ever consider having an abortion?,R_4ZMn95SI8zA8DlL-opinion-4,4/1/04
+R_31BI95dem897A0u,5,opinion,1,5,Do you believe in gay marriage?,R_31BI95dem897A0u-opinion-5,5/1/05
+R_2ahpXmcjorDDYHm,6,opinion,1,6,Are you opposed to reproductive rights? why?,R_2ahpXmcjorDDYHm-opinion-6,6/1/06
+R_3OrGhL4jAncK86Y,7,opinion,1,7,How do you feel about abortion?,R_3OrGhL4jAncK86Y-opinion-7,7/1/07
+R_3KCTtV9RH3ICw0X,8,opinion,1,8,How can abortion be right?,R_3KCTtV9RH3ICw0X-opinion-8,8/1/08
+R_bazRyNJgmVoX35T,9,opinion,1,9,Are you pro life?,R_bazRyNJgmVoX35T-opinion-9,9/1/09
+R_3HGGgIT2Ipo796o,10,opinion,1,10,How do you feel about abortion rights?,R_3HGGgIT2Ipo796o-opinion-10,10/1/10
+R_VWRB2gbzmpzqtEt,11,opinion,1,11,Should abortion be banned or not?,R_VWRB2gbzmpzqtEt-opinion-11,11/1/11
+R_33peLn2uSZQkjcJ,12,opinion,1,12,What rights that men take for granted should be available to women,R_33peLn2uSZQkjcJ-opinion-12,12/1/12
+R_T7zsGATWMBcftXr,13,opinion,1,13,What age do you think should be the age of consent for a girl to get an abortion without having to inform her parents? Why?,R_T7zsGATWMBcftXr-opinion-13,13-1-13
+R_1etLRYFkRkHKmho,14,opinion,1,14,What opinions do you hold about X?,R_1etLRYFkRkHKmho-opinion-14,14-1-14
+R_3fGDrpe5FsO263O,15,opinion,1,15,How can america stop their mass shooting problem?,R_3fGDrpe5FsO263O-opinion-15,15-1-15
+R_3ly4L14F8LEkvYa,16,opinion,1,16,How acceptable is the use/ownership of guns in our modern society?,R_3ly4L14F8LEkvYa-opinion-16,16-1-16
+R_27C3AbL5EOYsRrN,17,opinion,1,17,How do you feel about china banning video games?,R_27C3AbL5EOYsRrN-opinion-17,17-1-17
+R_2hnEhn0bu3gVCNP,18,opinion,1,18,What is your feeling on illegal immigration?,R_2hnEhn0bu3gVCNP-opinion-18,18-1-18
+R_6rEqEQYpqay0eL7,19,opinion,1,19,How do you feel about a woman having full rights over her own body?,R_6rEqEQYpqay0eL7-opinion-19,19-1-19
+R_Ui2KPm1YqCNqqBz,20,opinion,1,20,To what degree do you feel that abortion should be banned in the United States?,R_Ui2KPm1YqCNqqBz-opinion-20,20-1-20
+R_2VEMrIQ4nHMApsq,21,opinion,1,21,At one point in a pregnancy is it ethical to abort the fetus.,R_2VEMrIQ4nHMApsq-opinion-21,21-1-21
+R_2TmZyOuyD34aVCl,22,opinion,1,22,Do you believe it's okay not to vote?,R_2TmZyOuyD34aVCl-opinion-22,22-1-22
+R_9ZwnEq6UPsFnRaF,23,opinion,1,23,(Likert scale) To what degree do you support the right to abortion at any point in pregnancy.,R_9ZwnEq6UPsFnRaF-opinion-23,23-1-23
+R_3Old19LAZxD3ZEM,24,opinion,1,24,What do you think about Donald Trump's presidency?,R_3Old19LAZxD3ZEM-opinion-24,24-1-24
+R_2AZ5084vcp2N9qC,25,opinion,1,25,what are your thoughts on this controversial issue?,R_2AZ5084vcp2N9qC-opinion-25,25-1-25
+R_31KN2xdFipN8PMU,26,opinion,1,26,"Do you support *controversial issue,* and why do you feel this way?",R_31KN2xdFipN8PMU-opinion-26,26-1-26
+R_1q9dOhL13XXojw5,27,opinion,1,27,Do you believe it is ethical for abortion to be legal?,R_1q9dOhL13XXojw5-opinion-27,27-1-27
+R_1NrY8YlFoWL0Sk1,28,opinion,1,28,What do you a woman with an unwanted pregnancy should do.,R_1NrY8YlFoWL0Sk1-opinion-28,28-1-28
+R_10GUtYmaUcnm1vz,29,opinion,1,29,What are your opinions on abortion?,R_10GUtYmaUcnm1vz-opinion-29,29-1-29
+R_OvA0Bs784hwQoVj,30,opinion,1,30,What is your opinion on abortion rights?,R_OvA0Bs784hwQoVj-opinion-30,30-1-30
+R_2vjJL19URKHW2oA,31,opinion,1,31,What is your opinion about how the US currently handles immigration?,R_2vjJL19URKHW2oA-opinion-31,31-1-31
+R_AEAa7a8Fjkq7eWl,32,opinion,1,32,How do you feel towards women's rights towards abortion?,R_AEAa7a8Fjkq7eWl-opinion-32,32-1-32
+R_2t4eAeqjODNPDcM,33,opinion,1,33,What were your thoughts about the overturning of roe v. Wade?,R_2t4eAeqjODNPDcM-opinion-33,33-1-33
+R_w5bxIJI4KMMeLzX,34,opinion,1,34,What is your stance on the abortion issue?,R_w5bxIJI4KMMeLzX-opinion-34,34-1-34
+R_2Ec7hNjKfIaNKqO,35,opinion,1,35,How do you feel about making changes within our government system?,R_2Ec7hNjKfIaNKqO-opinion-35,35-1-35
+R_yyjCEAGkPeewfyF,36,opinion,1,36,How do you feel about roe vs Wade?,R_yyjCEAGkPeewfyF-opinion-36,36-1-36
+R_3MuQR6eKI9FzTuu,37,opinion,1,37,How does this make you feel in this specific point of time?,R_3MuQR6eKI9FzTuu-opinion-37,37-1-37
+R_3lxht5WgV8X0sBf,38,opinion,1,38,How do you feel about the current state of _____,R_3lxht5WgV8X0sBf-opinion-38,38-1-38
+R_28YhaN2DlueSFB6,39,opinion,1,39,How would you describe your position on (insert issue... such as...) gun rights?,R_28YhaN2DlueSFB6-opinion-39,39-1-39
+R_3elwRZBkpMcSxgJ,40,opinion,1,40,Do you believe there is global warming?,R_3elwRZBkpMcSxgJ-opinion-40,40-1-40
+R_C7ZlaAKOW8KyCvn,41,opinion,1,41,What are your current opinions on our current president of the United States?,R_C7ZlaAKOW8KyCvn-opinion-41,41-1-41
+R_bNkFeIyyVGys1pL,42,opinion,1,42,Do you think pro wrestling is fake?,R_bNkFeIyyVGys1pL-opinion-42,42-1-42
+R_3dM76B8CY3DKRDs,43,opinion,1,43,How do you feel about abortion,R_3dM76B8CY3DKRDs-opinion-43,43-1-43
+R_yQ6Cp0ED1LuqQEh,44,opinion,1,44,What do you believe will happen if the impact continues to grow?,R_yQ6Cp0ED1LuqQEh-opinion-44,44-1-44
+R_1NmivLvyQP5Nlpn,45,opinion,1,45,What is your stance on abortion?,R_1NmivLvyQP5Nlpn-opinion-45,45-1-45
+R_vVRz14z0kbfwnPX,46,opinion,1,46,What's your opinion on gun control?,R_vVRz14z0kbfwnPX-opinion-46,46-1-46
+R_3iwpNdjMZPdAVIU,47,opinion,1,47,What is your stance on pitbull bans?,R_3iwpNdjMZPdAVIU-opinion-47,47-1-47
+R_3IXl6TFELPDMbSv,48,opinion,1,48,What are your thoughts about abortion?,R_3IXl6TFELPDMbSv-opinion-48,48-1-48
+R_3EQJi5cIVuMpimW,49,opinion,1,49,Should abortion be banned?,R_3EQJi5cIVuMpimW-opinion-49,49-1-49
+R_3DuXOn0hCO3Ubj3,50,opinion,1,50,Do you believe that race alone can directly affect a person's intelligence?,R_3DuXOn0hCO3Ubj3-opinion-50,50-1-50
+R_25N0kukhyUtWQQK,51,opinion,1,51,"why is someone charged for a double murder or manslaughter when a pregnant woman is killed, yet not murder in any other situation?",R_25N0kukhyUtWQQK-opinion-51,51-1-51
+R_2pXkupgbGwXZHGM,52,opinion,1,52,How much control should an individual have over their own body vs their government?,R_2pXkupgbGwXZHGM-opinion-52,52-1-52
+R_2YrZtEmY7B7XxLO,53,opinion,1,53,How do you feel about (controversial issue)?,R_2YrZtEmY7B7XxLO-opinion-53,53-1-53
+R_z7lOtYTDiHOvwGd,54,opinion,1,54,Do you believe that it is a woman's choice to do with her body as she pleases?,R_z7lOtYTDiHOvwGd-opinion-54,54-1-54
+R_308KnIrq8nVdXrP,55,opinion,1,55,Do you think large social media platforms like Twitter should have the right to regulate access to free speech on their platforms?,R_308KnIrq8nVdXrP-opinion-55,55-1-55
+R_33rGmPyIqfJ0fDl,56,opinion,1,56,Should providing free labor be a condition to gain citizenship in the United States? Are reparations due to those who have?,R_33rGmPyIqfJ0fDl-opinion-56,56-1-56
+R_3OiY9DH1KZ14oL0,57,opinion,1,57,What week should be the cutoff for an abortion?,R_3OiY9DH1KZ14oL0-opinion-57,57-1-57
+R_1Fqvu9DkvX8CS71,58,opinion,1,58,Why should someone respect the they/them pronouns a coworker has asked to be referred by?,R_1Fqvu9DkvX8CS71-opinion-58,58-1-58
+R_2tJaROaz5dVEB7X,59,opinion,1,59,What is a woman?,R_2tJaROaz5dVEB7X-opinion-59,59-1-59
+R_2V2RPSHEciufkdy,60,opinion,1,60,why former president trump should be or not be allowed to run for that office again,R_2V2RPSHEciufkdy-opinion-60,60-1-60
+R_ylj0NiUKCip6Ihj,61,opinion,1,61,How do you feel about immigration?,R_ylj0NiUKCip6Ihj-opinion-61,61-1-61
+R_zSV23Qj1qdEyJFf,62,opinion,1,62,Should abortion be legal?,R_zSV23Qj1qdEyJFf-opinion-62,62-1-62
+R_3F3Dw4vQgfMes0j,63,opinion,1,63,How has your life been affected by inflation recently?,R_3F3Dw4vQgfMes0j-opinion-63,63-1-63
+R_1N3qT26GoR27nmq,64,opinion,1,64,What is your opinion about (Controversial issue),R_1N3qT26GoR27nmq-opinion-64,64-1-64
+R_3MEXzQqchsXY0cC,65,opinion,1,65,What are your opinions on the current state and progression of America?,R_3MEXzQqchsXY0cC-opinion-65,65-1-65
+R_2t9J0mXN6A3MIpb,66,opinion,1,66,Are you pro life or pro choice?,R_2t9J0mXN6A3MIpb-opinion-66,66-1-66
+R_9FiLAUcEnooFI7D,67,opinion,1,67,Are you pro-life or pro-choice and why?,R_9FiLAUcEnooFI7D-opinion-67,67-1-67
+R_3nebMjhuPSKZENg,68,opinion,1,68,How important is gun control to your lifestyle?,R_3nebMjhuPSKZENg-opinion-68,68-1-68
+R_28CKfBNKqC6ncph,69,opinion,1,69,What are your thoughts on gun control?,R_28CKfBNKqC6ncph-opinion-69,69-1-69
+R_31zOFEN9R6s1DKe,70,opinion,1,70,How would you feel if your vote didn't matter anymore?,R_31zOFEN9R6s1DKe-opinion-70,70-1-70
+R_1jZWHYBJmcHqnEO,71,opinion,1,71,do you think genz is so messed up and why/why not?,R_1jZWHYBJmcHqnEO-opinion-71,71-1-71
+R_22nTrCN6Bz5aUvX,72,opinion,1,72,What do think about what the things Kanye West has been saying lately?,R_22nTrCN6Bz5aUvX-opinion-72,72-1-72
+R_3NPpdsdk482zcTc,73,opinion,1,73,What are your thoughts about the recent decision to reverse Roe vs Wade?,R_3NPpdsdk482zcTc-opinion-73,73-1-73
+R_1YXJ49kOY0vfvPP,74,opinion,1,74,Why should we ban assault rifles in the United States?,R_1YXJ49kOY0vfvPP-opinion-74,74-1-74
+R_Q49HdTFfJR5rbYR,75,opinion,1,75,How strongly do you feel about X issue?,R_Q49HdTFfJR5rbYR-opinion-75,75-1-75
+R_3EyfV4l0N0EI67q,76,opinion,1,76,How would you tackle the controversial issue if you were in charge?,R_3EyfV4l0N0EI67q-opinion-76,76-1-76
+R_33kEHmXGVytDkoo,77,opinion,1,77,Do you support or oppose abortion?,R_33kEHmXGVytDkoo-opinion-77,77-1-77
+R_2feOV4PnmdZIo43,78,opinion,1,78,How do you feel about Andrew Tate?,R_2feOV4PnmdZIo43-opinion-78,78-1-78
+R_2foJ98pHMv529it,79,opinion,1,79,What are your thoughts on abortion?,R_2foJ98pHMv529it-opinion-79,79-1-79
+R_3HqA5EhiTCiTlqz,80,opinion,1,80,What are your thoughts about election integrity?,R_3HqA5EhiTCiTlqz-opinion-80,80-1-80
+R_2SHaLh0UTVfWxFq,81,opinion,1,81,Should the government give cash reparations to the african americans?,R_2SHaLh0UTVfWxFq-opinion-81,81-1-81
+R_1BREwNk7M4TjjSs,82,opinion,1,82,Should we have universal basic income?,R_1BREwNk7M4TjjSs-opinion-82,82-1-82
+R_2EyqeQSgK68JAFD,83,opinion,1,83,How do you feel about the immigration problem in the United States?,R_2EyqeQSgK68JAFD-opinion-83,83-1-83
+R_25BnxF5njWRZbtC,84,opinion,1,84,What are your beliefs regarding abortion and in what cases do you think it is appropriate??,R_25BnxF5njWRZbtC-opinion-84,84-1-84
+R_3fCuy3cqD1gdRs4,85,opinion,1,85,What are your thoughts on this issue?,R_3fCuy3cqD1gdRs4-opinion-85,85-1-85
+R_3fDyxDUQHkXlomT,86,opinion,1,86,How do you feel about conversion therapy?,R_3fDyxDUQHkXlomT-opinion-86,86-1-86
+R_2BrZRy92mK4JcQC,87,opinion,1,87,Would you say you're more left or right leaning?,R_2BrZRy92mK4JcQC-opinion-87,87-1-87
+R_tWnTEzP8TCPPDq1,88,opinion,1,88,"why do you like , or not like the biden administration?",R_tWnTEzP8TCPPDq1-opinion-88,88-1-88
+R_3064KA2K2BjwoVu,89,opinion,1,89,What do you think about abortion?,R_3064KA2K2BjwoVu-opinion-89,89-1-89
+R_2QEC0w7BI5d6pkB,90,opinion,1,90,How do you feel about the following topic?,R_2QEC0w7BI5d6pkB-opinion-90,90-1-90
+R_2zeY2pN8n7l2X1i,91,opinion,1,91,How would you respond to this topic?,R_2zeY2pN8n7l2X1i-opinion-91,91-1-91
+R_3fUFQnFCAQ2HkT7,92,opinion,1,92,What is your view on assisted suicide ?,R_3fUFQnFCAQ2HkT7-opinion-92,92-1-92
+R_1JK5B6VzMfbqdCG,93,opinion,1,93,Do you believe the COVID Vaccine is safe?,R_1JK5B6VzMfbqdCG-opinion-93,93-1-93
+R_1n9guxao5NarO6f,94,opinion,1,94,What is your view of Global warming,R_1n9guxao5NarO6f-opinion-94,94-1-94
+R_1pVvOU3SZ3yAIqd,95,opinion,1,95,How did the Supreme Court's reversal of Roe v. Wade make you feel?,R_1pVvOU3SZ3yAIqd-opinion-95,95-1-95
+R_50GOv74e8TGNZGF,96,opinion,1,96,What kinds of restrictions if any do you feel should be placed on abortions?,R_50GOv74e8TGNZGF-opinion-96,96-1-96
+R_1MWiLr6Tl8iaxAB,97,opinion,1,97,What do you think of the pope adding homosexuality to god's will,R_1MWiLr6Tl8iaxAB-opinion-97,97-1-97
+R_3J3nVkCLYfNVxlR,98,opinion,1,98,What is your opinion of Kanye West?,R_3J3nVkCLYfNVxlR-opinion-98,98-1-98
+R_21ssbRXbuYDFqNk,99,opinion,1,99,What is your personal opinion about abortions?,R_21ssbRXbuYDFqNk-opinion-99,99-1-99
+R_3Qm5LGE69N58kcp,100,opinion,1,100,How does this issue make you feel and why?,R_3Qm5LGE69N58kcp-opinion-100,100-1-100
+R_2f7ij7zisN0W6cQ,101,opinion,1,101,Who did you vote for in the last presidential election?,R_2f7ij7zisN0W6cQ-opinion-101,101-1-101
+R_1Ejlwmgs0mwxVgL,102,opinion,1,102,what do you think about abortion?,R_1Ejlwmgs0mwxVgL-opinion-102,102-1-102
+R_ZBFIKAbTBnek7SN,103,opinion,1,103,What is your opinion on abortion right,R_ZBFIKAbTBnek7SN-opinion-103,103-1-103
+R_NVmEH5ORGp38eTD,104,opinion,1,104,Do you support reparations for African Americans? Native Americans?,R_NVmEH5ORGp38eTD-opinion-104,104-1-104
+R_41tWObnnIzshh3H,105,opinion,1,105,How do you feel about current abortion laws in the US?,R_41tWObnnIzshh3H-opinion-105,105-1-105
+R_etWMudXrU6yCAhz,106,opinion,1,106,"How would you feel if you saw a white male, wearing a t shirt with confederate flag on it , at the grocery store.",R_etWMudXrU6yCAhz-opinion-106,106-1-106
+R_2EsB1OBHnp5FGGu,107,opinion,1,107,What are your feelings on immigration in the US?,R_2EsB1OBHnp5FGGu-opinion-107,107-1-107
+R_3HRAO2MWB4NVLMW,108,opinion,1,108,Have you had a religious experience that changed your life?,R_3HRAO2MWB4NVLMW-opinion-108,108-1-108
+R_1LwkjwT0M5CryO2,109,opinion,1,109,Are you pro life or pro choice and why?,R_1LwkjwT0M5CryO2-opinion-109,109-1-109
+R_PYBtXRAFoc7Gh8J,110,opinion,1,110,What would be some medically necessary reasons to have an abortion?,R_PYBtXRAFoc7Gh8J-opinion-110,110-1-110
+R_3Ma0NUbSzqBu01t,111,opinion,1,111,Why do you disagree with the other point of view?,R_3Ma0NUbSzqBu01t-opinion-111,111-1-111
+R_2319PS4jDxbUGtq,112,opinion,1,112,What is your opinion on an assault rifle ban?,R_2319PS4jDxbUGtq-opinion-112,112-1-112
+R_1JRRKlBspAy0nyL,113,opinion,1,113,What is your opinion on abortion?,R_1JRRKlBspAy0nyL-opinion-113,113-1-113
+R_eV5gxyGfLtobXUZ,114,opinion,1,114,What do you think should be done about the homeless in our country?,R_eV5gxyGfLtobXUZ-opinion-114,114-1-114
+R_1HqVVzoq3xftk01,115,opinion,1,115,"What factors, natural and/or man-made, have contributed to climate change",R_1HqVVzoq3xftk01-opinion-115,115-1-115
+R_4Irn4v7aw920uJz,116,opinion,1,116,What is your opinion on Roe v Wade?,R_4Irn4v7aw920uJz-opinion-116,116-1-116
+R_21b6txWDknSIebs,117,opinion,1,117,Vaccine shots are effective at controlling the COVID virus.,R_21b6txWDknSIebs-opinion-117,117-1-117
+R_3hEkK4psJnI4pa0,118,opinion,1,118,How do you feel about abortion?,R_3hEkK4psJnI4pa0-opinion-118,118-1-118
+R_246tUYDDDiXaDDw,119,opinion,1,119,Are you pro life or pro choice?,R_246tUYDDDiXaDDw-opinion-119,119-1-119
+R_2VDVb8gf68BisxK,120,opinion,1,120,What is your stance on abortion?,R_2VDVb8gf68BisxK-opinion-120,120-1-120
+R_30qV6dZEAaFItyM,121,opinion,1,121,What are you opinions surrounding gun control?,R_30qV6dZEAaFItyM-opinion-121,121-1-121
+R_1hAcAr8PBNmJ9g2,122,opinion,1,122,"Due to recent controversies with Elon Musk, Twitter, and Kanye West. Do you think there should be some type of regulation on free speech? Specifically hate speech.",R_1hAcAr8PBNmJ9g2-opinion-122,122-1-122
+R_3I4bXP7sKa57dUM,123,opinion,1,123,How many weeks into a pregnancy will a fetus become viable?,R_3I4bXP7sKa57dUM-opinion-123,123-1-123
+R_2uswAotc1t3Lfci,124,opinion,1,124,do you believe women have the right to abortion access?,R_2uswAotc1t3Lfci-opinion-124,124-1-124
+R_54q4qoVNgn1H3FL,125,opinion,1,125,What is a conspiracy theory you believe to be true?,R_54q4qoVNgn1H3FL-opinion-125,125-1-125
+R_1ImSKamLViu4OhC,126,opinion,1,126,What is a controversial issue for you?,R_1ImSKamLViu4OhC-opinion-126,126-1-126
+R_2ffdghz0uWF3ovt,127,opinion,1,127,why some Christ followers who wants to convert people from other religions to theirs?,R_2ffdghz0uWF3ovt-opinion-127,127-1-127
+R_2EAYW8Uvl4soSWE,128,opinion,1,128,Why do you believe rich people deserve better healthcare than poor people?,R_2EAYW8Uvl4soSWE-opinion-128,128-1-128
+R_2XasM1FO8851dN2,129,opinion,1,129,How do you feel about global warming?,R_2XasM1FO8851dN2-opinion-129,129-1-129
+R_24pABDXhJMLm0V2,130,opinion,1,130,What is your understanding of the issue of abortion and how do you feel about it?,R_24pABDXhJMLm0V2-opinion-130,130-1-130
+R_1P67TruQH1j4iop,131,opinion,1,131,"Do you believe that human life has inherent value (that is, all human lives are in some way sacred)?",R_1P67TruQH1j4iop-opinion-131,131-1-131
+R_3etvjJ76dyp7UHC,132,opinion,1,132,What are your opinions on birth control?,R_3etvjJ76dyp7UHC-opinion-132,132-1-132
+R_OJpJLmAe1JCOag9,133,opinion,1,133,What do you think should be done about abortion rights in America?,R_OJpJLmAe1JCOag9-opinion-133,133-1-133
+R_1Q3iYASwBVK0Smw,134,opinion,1,134,Why do you support or oppose gun control?,R_1Q3iYASwBVK0Smw-opinion-134,134-1-134
+R_2YwVHMDtyZhIX79,135,opinion,1,135,What is your opinion of the GOP?,R_2YwVHMDtyZhIX79-opinion-135,135-1-135
+R_3kFEaegQGBwR4cR,136,opinion,1,136,are you for or against abortion,R_3kFEaegQGBwR4cR-opinion-136,136-1-136
+R_SOg7sSt3pZMZXP3,137,opinion,1,137,What was the impact of Trump's presidency on the course of American history?,R_SOg7sSt3pZMZXP3-opinion-137,137-1-137
+R_yNEFSYIHpDvibgR,138,opinion,1,138,Does life begin at conception or at some later point?,R_yNEFSYIHpDvibgR-opinion-138,138-1-138
+R_xiawgFkElv4RGk9,139,opinion,1,139,Do you believe women should have the right to an abortion,R_xiawgFkElv4RGk9-opinion-139,139-1-139
+R_3HSnNvtk6VzYQOr,140,opinion,1,140,What are some of the benefits you see from espousing position A on issue X?,R_3HSnNvtk6VzYQOr-opinion-140,140-1-140
+R_1hQ4p92ztggQad7,141,opinion,1,141,What is you personal moral standpoint on this issue?,R_1hQ4p92ztggQad7-opinion-141,141-1-141
+R_2Ei5QZJX6lof1Aw,142,opinion,1,142,Are you for or against abortion rights and why?,R_2Ei5QZJX6lof1Aw-opinion-142,142-1-142
+R_Zk8hwBTMgT0K0o1,143,opinion,1,143,Do you believe abortion should be illegal or legal?,R_Zk8hwBTMgT0K0o1-opinion-143,143-1-143
+R_6gLCSEwPLCJz3tT,144,opinion,1,144,How do you feel about X,R_6gLCSEwPLCJz3tT-opinion-144,144-1-144
+R_1eM0H34FsKNkMc0,145,opinion,1,145,What is one opinion you have that you'd be afraid to tell other people?,R_1eM0H34FsKNkMc0-opinion-145,145-1-145
+R_2TpZmTcDla1D56G,146,opinion,1,146,Do you like trump.,R_2TpZmTcDla1D56G-opinion-146,146-1-146
+R_u1XgjXiU94zFApX,147,opinion,1,147,"What is the difference between ""pro-life"" and ""pro-choice""?",R_u1XgjXiU94zFApX-opinion-147,147-1-147
+R_2P6CNij4ilYIZiM,148,opinion,1,148,To what degree do you believe that election fraud occurs?,R_2P6CNij4ilYIZiM-opinion-148,148-1-148
+R_2VwNQr9i5mq61xV,149,opinion,1,149,How would you describe your views on the morality of abortion?,R_2VwNQr9i5mq61xV-opinion-149,149-1-149
+R_3oHrtwfehwIrMKv,150,opinion,1,150,Who is to blame for poverty and whose responsibility is it to fix the issues the create poverty,R_3oHrtwfehwIrMKv-opinion-150,150-1-150
+R_2BqU4CP8xyJJey5,151,opinion,1,151,How restrictive should gun laws be?,R_2BqU4CP8xyJJey5-opinion-151,151-1-151
+R_7PNNLIY4eTpwMPT,152,opinion,1,152,When should abortion be allowed?,R_7PNNLIY4eTpwMPT-opinion-152,152-1-152
+R_2XoFTzGkCNSb4Sr,153,opinion,1,153,do you believe this to be true or untrue?,R_2XoFTzGkCNSb4Sr-opinion-153,153-1-153
+R_2XbcM0RRjoAcB7E,154,opinion,1,154,Can you explain why you hold that position?,R_2XbcM0RRjoAcB7E-opinion-154,154-1-154
+R_08Hp8XfWsmkI6pX,155,opinion,1,155,Question about abortion,R_08Hp8XfWsmkI6pX-opinion-155,155-1-155
+R_21jKc00lBFSF1fv,156,opinion,1,156,"How has your opinion changed on this issue, if at all?",R_21jKc00lBFSF1fv-opinion-156,156-1-156
+R_vYVG1mTC8oqrYbv,157,opinion,1,157,What is your stance on police brutality?,R_vYVG1mTC8oqrYbv-opinion-157,157-1-157
+R_2qqRJjmGAAFeChM,158,opinion,1,158,How would you describe your current stance on controversial topics?,R_2qqRJjmGAAFeChM-opinion-158,158-1-158
+R_33yypHCLAKwtoyy,159,opinion,1,159,Why do you think many vaccinations are required for students and by some businesses?,R_33yypHCLAKwtoyy-opinion-159,159-1-159
+R_yWIJcOFW3LXG1pL,160,opinion,1,160,What are your opinions on abortion?,R_yWIJcOFW3LXG1pL-opinion-160,160-1-160
+R_Xzf1cDxMwOxhKz7,161,opinion,1,161,"Is global warming happening and if yes, is it caused my natural causes or humans?",R_Xzf1cDxMwOxhKz7-opinion-161,161-1-161
+R_3G0TgHNgUn0mFee,162,opinion,1,162,What are your thoughts on abortion bans and why?,R_3G0TgHNgUn0mFee-opinion-162,162-1-162
+R_3CKtEu79AUUQAxZ,163,opinion,1,163,What is your opinion on climate change?,R_3CKtEu79AUUQAxZ-opinion-163,163-1-163
+R_rpXsgTcHq54SmtP,164,opinion,1,164,Do you feel America handled the situation with Ukraine and Russia properly.,R_rpXsgTcHq54SmtP-opinion-164,164-1-164
+R_2pQcaXGDCDwjy2r,165,opinion,1,165,Under what circumstances is it acceptable for social media platforms censor the information that can be shared on their sites?,R_2pQcaXGDCDwjy2r-opinion-165,165-1-165
+R_1q4ZGypaGyaRBRl,166,opinion,1,166,"A politician claims to sponsor a bill that extends Medicaid to everyone in the state, what are you thoughts on this?",R_1q4ZGypaGyaRBRl-opinion-166,166-1-166
+R_1nMYdGegqbdAVcA,167,opinion,1,167,Should abortion be made completely illegal?,R_1nMYdGegqbdAVcA-opinion-167,167-1-167
+R_1nW9XpWNPxxS6di,168,opinion,1,168,"If you are against abortion, how responsible is the father for the child's care?",R_1nW9XpWNPxxS6di-opinion-168,168-1-168
+R_2YzCoyxnYrFDS1p,169,opinion,1,169,"Without looking up online, what is your personal take on xyz issue?",R_2YzCoyxnYrFDS1p-opinion-169,169-1-169
+R_2QMtCgqV6EMyhvy,170,opinion,1,170,In what ways do immigrants contribute both positively and negatively to American society?,R_2QMtCgqV6EMyhvy-opinion-170,170-1-170
+R_2usUJmAgTJxqjCy,171,opinion,1,171,How has the government been too involved in the lives of American citizens?,R_2usUJmAgTJxqjCy-opinion-171,171-1-171
+R_yClwRVxJTgFeV0Z,172,opinion,1,172,What do think about china's covid restrictions,R_yClwRVxJTgFeV0Z-opinion-172,172-1-172
+R_1LCJMEMRZLglOfl,173,opinion,1,173,do you trust the results of the 2020 presidential elections?,R_1LCJMEMRZLglOfl-opinion-173,173-1-173
+R_3lDoOH7ah6zA4la,174,opinion,1,174,Do you believe White genocide is really happening?,R_3lDoOH7ah6zA4la-opinion-174,174-1-174
+R_1l69ko3qUz0peTr,175,opinion,1,175,What is your thoughts on the roe v wade case,R_1l69ko3qUz0peTr-opinion-175,175-1-175
+R_11cOUjydlb0dfOc,176,opinion,1,176,What is your personal view on the current issue?,R_11cOUjydlb0dfOc-opinion-176,176-1-176
+R_2AKDZLIRF3YkcYk,177,opinion,1,177,What are your thoughts on abortion?,R_2AKDZLIRF3YkcYk-opinion-177,177-1-177
+R_3I9uZzVYjDjUUqP,178,opinion,1,178,What do you think of Donald Trump's tenure as president of the United States? Can you provide at least one example to support your opinion?,R_3I9uZzVYjDjUUqP-opinion-178,178-1-178
+R_2qDTAms6OT4bWfh,179,opinion,1,179,"On a scale of 1 to 5 , with 5 being strongly agree and 1 being strongly disagree, how do you feel about the statement, the right to abortion should be codified by our elected officials",R_2qDTAms6OT4bWfh-opinion-179,179-1-179
+R_SE3PacMjJwM26Mp,180,opinion,1,180,How strongly do you feel that a woman should always have the right to a safe and legal abortion?,R_SE3PacMjJwM26Mp-opinion-180,180-1-180
+R_28Seftz7dufnsFx,181,opinion,1,181,About abortion rights,R_28Seftz7dufnsFx-opinion-181,181-1-181
+R_2PiNLZuxrBm2RSG,182,opinion,1,182,Would you feel comfortable with your neighbor purchasing a firearm?,R_2PiNLZuxrBm2RSG-opinion-182,182-1-182
+R_1HhjEQinrU7x35w,183,opinion,1,183,What are your thoughts on roe vs Wade being overturned?,R_1HhjEQinrU7x35w-opinion-183,183-1-183
+R_43hU9W3jVl2lB5v,184,opinion,1,184,How do you think religion should be handled in government?,R_43hU9W3jVl2lB5v-opinion-184,184-1-184
+R_1ikXN3eActhAHTD,185,opinion,1,185,what is an opinion you have that you are too afraid to tell anyone?,R_1ikXN3eActhAHTD-opinion-185,185-1-185
+R_3mZotfwWyJw1HFf,186,opinion,1,186,What is your most controversial opinion and why do you think people find it controversial?,R_3mZotfwWyJw1HFf-opinion-186,186-1-186
+R_1PZ3NsaGQHvK3zh,187,opinion,1,187,What is your opinion on abortion and why do you support or not support abortion,R_1PZ3NsaGQHvK3zh-opinion-187,187-1-187
+R_NXEacltZ2N0VRPX,188,opinion,1,188,What are your thoughts on whether Trump's election was stolen?,R_NXEacltZ2N0VRPX-opinion-188,188-1-188
+R_xm8uPpEpQp2TKJr,189,opinion,1,189,How do controversial issues affect your daily life?,R_xm8uPpEpQp2TKJr-opinion-189,189-1-189
+R_03r4s7y5kXL06hX,190,opinion,1,190,What is your stance on gun control?,R_03r4s7y5kXL06hX-opinion-190,190-1-190
+R_2Bap89oejkuQFSJ,191,opinion,1,191,How do you feel about Kanye West,R_2Bap89oejkuQFSJ-opinion-191,191-1-191
+R_2c6GrONe60EOotb,192,opinion,1,192,How do you feel about roe v wade?,R_2c6GrONe60EOotb-opinion-192,192-1-192
+R_2CHwDxPD7RSfm9J,193,opinion,1,193,What is your stand on abortion,R_2CHwDxPD7RSfm9J-opinion-193,193-1-193
+R_2645ZErow26mpOy,194,opinion,1,194,"Please tell me/ us about your opinion or belief about the Government whether Federal or State controlling a biological process of pregnancy, &/ or birth control",R_2645ZErow26mpOy-opinion-194,194-1-194
+R_OfEUsQCTskRqs2l,195,opinion,1,195,do you believe in Santa,R_OfEUsQCTskRqs2l-opinion-195,195-1-195
+R_3PSnKv6hqVj73PD,196,opinion,1,196,Do you believe in global warming? Please explain why or why not.,R_3PSnKv6hqVj73PD-opinion-196,196-1-196
+R_5osHlJwx4xnc4Bb,197,opinion,1,197,What is the topic you and your parents cannot agree on?,R_5osHlJwx4xnc4Bb-opinion-197,197-1-197
+R_x5u6Ei2m8OB3n4R,198,opinion,1,198,How do you feel about working with a far right pro life team member?,R_x5u6Ei2m8OB3n4R-opinion-198,198-1-198
+R_11XwaCpaJWAzxRB,199,opinion,1,199,What is your stance on abortion?,R_11XwaCpaJWAzxRB-opinion-199,199-1-199
+R_2tEfKP6Y0zbpvMZ,200,opinion,1,200,Do you think it was acceptable for some industries (especially medical and health care industries) to mandate vaccination for Covid-19? Even in states where the Federal Government's mandate was struck down by the Supreme Court?,R_2tEfKP6Y0zbpvMZ-opinion-200,200-1-200
+R_s75FySDIqCMicBH,201,opinion,1,201,What do you think has been the most controversial issue facing the United States this year?,R_s75FySDIqCMicBH-opinion-201,201-1-201
+R_2fg0jRuTKj7C9vo,202,opinion,1,202,How do you feel about gun control? Please explain why you answered the way you did.,R_2fg0jRuTKj7C9vo-opinion-202,202-1-202
+R_0ulFiN17aUopcU9,203,opinion,1,203,How do you feel about pregnancy choice centers?,R_0ulFiN17aUopcU9-opinion-203,203-1-203
+R_1EYTKFHcUewKEpo,204,opinion,1,204,How to you feel about the decision to overturn Roe vs Wade?,R_1EYTKFHcUewKEpo-opinion-204,204-1-204
+R_2urghRUuAdWVQkp,205,opinion,1,205,The most controversial issue on my mind is: Why does our current president refuse to address the issues at our Southern border that are changing the complexion of our country?,R_2urghRUuAdWVQkp-opinion-205,205-1-205
+R_3sz8fWBekIlEbfE,206,opinion,1,206,How do you feel about gun control legislation?,R_3sz8fWBekIlEbfE-opinion-206,206-1-206
+R_3Rw2cNMImOjbipf,207,opinion,1,207,How do you feel about women's reproductive rights?,R_3Rw2cNMImOjbipf-opinion-207,207-1-207
+R_2zeBbVcT9pktRcZ,208,opinion,1,208,What is your opinion on defunding the police?,R_2zeBbVcT9pktRcZ-opinion-208,208-1-208
+R_3Rr0qfAzZMuPA7P,209,opinion,1,209,Let's hear your on blunt feelings on abortion,R_3Rr0qfAzZMuPA7P-opinion-209,209-1-209
+R_1Dpphk3Bu9v7xG4,210,opinion,1,210,What is your opinion on a current controversial issue?,R_1Dpphk3Bu9v7xG4-opinion-210,210-1-210
+R_2aaFn7eVSbN3PfR,211,opinion,1,211,Why should gay marriage be made legal in all 50 states?,R_2aaFn7eVSbN3PfR-opinion-211,211-1-211
+R_3m2fQaeoh1O2ZUA,212,opinion,1,212,What is your most controversial opinion?,R_3m2fQaeoh1O2ZUA-opinion-212,212-1-212
+R_WlH4CEm35h9Pt61,213,opinion,1,213,Under what circumstances should the death penalty be justified?,R_WlH4CEm35h9Pt61-opinion-213,213-1-213
+R_2OMXoTERQdtMgH7,214,opinion,1,214,What is your thoughts on the energy Crisis?,R_2OMXoTERQdtMgH7-opinion-214,214-1-214
+R_Z8mR8N8FDaEBBYd,215,opinion,1,215,How do you feel about some of the issues plaguing our society right now?,R_Z8mR8N8FDaEBBYd-opinion-215,215-1-215
+R_1GDl10vuYZr74aJ,216,opinion,1,216,abortion views,R_1GDl10vuYZr74aJ-opinion-216,216-1-216
+R_24i0Lud6anGKtao,217,opinion,1,217,what are your beliefs about abortion?,R_24i0Lud6anGKtao-opinion-217,217-1-217
+R_1mJL2cxWopeOnlC,218,opinion,1,218,Where do stand on abortion?,R_1mJL2cxWopeOnlC-opinion-218,218-1-218
+R_3h3FNuvONTXhLL1,219,opinion,1,219,At what point do you consider a fetus a person?,R_3h3FNuvONTXhLL1-opinion-219,219-1-219
+R_1o0Zm9mJ9QqyFmN,220,opinion,1,220,What are your thoughts on the current U.S Supreme Court?,R_1o0Zm9mJ9QqyFmN-opinion-220,220-1-220
+R_1dcr2xG2Dk9CwS7,221,opinion,1,221,What do you think about the new abortion ruling?,R_1dcr2xG2Dk9CwS7-opinion-221,221-1-221
+R_xbi0FBHwNJHoEGB,222,opinion,1,222,What are your thoughts on abortion?,R_xbi0FBHwNJHoEGB-opinion-222,222-1-222
+R_pnRWzetUESCynvj,223,opinion,1,223,How do you feel about the current economy?,R_pnRWzetUESCynvj-opinion-223,223-1-223
+R_2q9sGO6iCC1CxW3,224,opinion,1,224,What is your stance on the education system?,R_2q9sGO6iCC1CxW3-opinion-224,224-1-224
+R_3Ib4lfesFfZMCg3,225,opinion,1,225,What are the main factors behind your opinion on this controversial issue?,R_3Ib4lfesFfZMCg3-opinion-225,225-1-225
+R_2OJvjCR1NdjqUyb,226,opinion,1,226,"What are your views on the abortion issue, and how have your opinions on this changed over the years?",R_2OJvjCR1NdjqUyb-opinion-226,226-1-226
+R_3HzwFQMkXJ2hm5T,227,opinion,1,227,Do you think guns should be banned,R_3HzwFQMkXJ2hm5T-opinion-227,227-1-227
+R_3OrxostEFdXhyt6,228,opinion,1,228,"do you like to answer questions , if so why/why not",R_3OrxostEFdXhyt6-opinion-228,228-1-228
+R_wXYVsG1DSdadLG1,229,opinion,1,229,Do you think healthcare should be available to all equally in America,R_wXYVsG1DSdadLG1-opinion-229,229-1-229
+R_2zCw1Tgh3SadIh8,230,opinion,1,230,How often do you think against the common public opinion?,R_2zCw1Tgh3SadIh8-opinion-230,230-1-230
+R_1PSDyucnjDZXgOs,231,opinion,1,231,Are you in favor of abortion?,R_1PSDyucnjDZXgOs-opinion-231,231-1-231
+R_1FeSjTTXy4320G4,232,opinion,1,232,Do you think abortion should be legal?,R_1FeSjTTXy4320G4-opinion-232,232-1-232
+R_29s4qSqp6VnMXaI,233,opinion,1,233,how do you feel about controversial issues,R_29s4qSqp6VnMXaI-opinion-233,233-1-233
+R_1C1oQdNXgdTYEoh,234,opinion,1,234,What is your stance on abortion?,R_1C1oQdNXgdTYEoh-opinion-234,234-1-234
+R_1poNcbiWmGjtykX,235,opinion,1,235,What are your thoughts on abortion?,R_1poNcbiWmGjtykX-opinion-235,235-1-235
+R_1dKBMc3nAfg6ld7,236,opinion,1,236,How would you describe your beliefs about climate change?,R_1dKBMc3nAfg6ld7-opinion-236,236-1-236
+R_2VqkCiXWtgaBLDQ,237,opinion,1,237,Why are Republicans and Democrats more heavily divided than at any other time in history?,R_2VqkCiXWtgaBLDQ-opinion-237,237-1-237
+R_1lhldiwGyehkjS6,238,opinion,1,238,Should we overturn Roe v. Wade?,R_1lhldiwGyehkjS6-opinion-238,238-1-238
+R_1i3QyvNAEueclbz,239,opinion,1,239,Is there a higher power?,R_1i3QyvNAEueclbz-opinion-239,239-1-239
+R_1IuDezZUuKqCaNC,240,opinion,1,240,Do you think believers of this controversial issue are correct in their belief and why?,R_1IuDezZUuKqCaNC-opinion-240,240-1-240
+R_eqG8NNcdBHBRVU5,241,opinion,1,241,To what extent should civilians be allowed to protect themselves with weapons?,R_eqG8NNcdBHBRVU5-opinion-241,241-1-241
+R_3fvFDGRt87ccNrU,242,opinion,1,242,What is a social issue that you feel strongly about and why?,R_3fvFDGRt87ccNrU-opinion-242,242-1-242
+R_3PcawGKDfnNjjpP,243,opinion,1,243,what is your opinion about female promiscuity?,R_3PcawGKDfnNjjpP-opinion-243,243-1-243
+R_4HL4PdRJEKaBmZH,244,opinion,1,244,Do you believe in God?,R_4HL4PdRJEKaBmZH-opinion-244,244-1-244
+R_sSQDcj9WrrJZq3n,245,opinion,1,245,How does all this gender talk make you feel?,R_sSQDcj9WrrJZq3n-opinion-245,245-1-245
+R_3kHtzefTBARbspi,246,opinion,1,246,What is your opinion on abortion?,R_3kHtzefTBARbspi-opinion-246,246-1-246
+R_RLzwAIgQ29mRyoh,247,opinion,1,247,What are your thoughts on the United States sending so much aid to Ukraine for the war against Russia?,R_RLzwAIgQ29mRyoh-opinion-247,247-1-247
+R_2fEgnhciJ14zQEx,248,opinion,1,248,How do you feel about the Supreme court's decision on Roe V Wade?,R_2fEgnhciJ14zQEx-opinion-248,248-1-248
+R_2pW66NBbJsGB30B,249,opinion,1,249,When do you believe life begins at conception or at viability?,R_2pW66NBbJsGB30B-opinion-249,249-1-249
+R_1esJu1BhE0POyP8,250,opinion,1,250,How do you feel about trump calling to reinstate him as president and amend the constitution?,R_1esJu1BhE0POyP8-opinion-250,250-1-250
+R_vI7cFgWhX7m3Jtv,251,opinion,1,251,What measures should be taken to decrease gun violence?,R_vI7cFgWhX7m3Jtv-opinion-251,251-1-251
+R_2dQE9X9vjXcehR2,252,opinion,1,252,What are your opinions on Roe v. Wade?,R_2dQE9X9vjXcehR2-opinion-252,252-1-252
+R_2U3jhNACUkJ8yol,253,opinion,1,253,Does all education need to be online,R_2U3jhNACUkJ8yol-opinion-253,253-1-253
+R_33rSfDMT56TPBeF,254,opinion,1,254,What views do you hold that you believe are against the majority opinion?,R_33rSfDMT56TPBeF-opinion-254,254-1-254
+R_0j5q8gPIzPt1tAJ,255,opinion,1,255,Under what circumstances should women have access to abortions?,R_0j5q8gPIzPt1tAJ-opinion-255,255-1-255
+R_3MyyDzQpuWaeJCx,256,opinion,1,256,What kind of person would you dislike?,R_3MyyDzQpuWaeJCx-opinion-256,256-1-256
+R_1M3P3DPuLcV91iq,257,opinion,1,257,What can the US do to prevent election deniers in the future?,R_1M3P3DPuLcV91iq-opinion-257,257-1-257
+R_2aXFGis7oML1flu,258,opinion,1,258,What is your opinion on gun control?,R_2aXFGis7oML1flu-opinion-258,258-1-258
+R_UgRDu7UCHDnnFpT,259,opinion,1,259,"Where does/should freedom of speech end, if at all?",R_UgRDu7UCHDnnFpT-opinion-259,259-1-259
+R_3fq0qo8IZzFSSUb,260,opinion,1,260,What do you believe is the biggest cause of climate change?,R_3fq0qo8IZzFSSUb-opinion-260,260-1-260
+R_3MPzGy1aPvcu5G1,261,opinion,1,261,What is your position on abortion,R_3MPzGy1aPvcu5G1-opinion-261,261-1-261
+R_6rlsWMBNaTsTd0B,262,opinion,1,262,Do you support or oppose the Supreme Court's overturning of Roe v. Wade?,R_6rlsWMBNaTsTd0B-opinion-262,262-1-262
+R_1d6uBSESDeTg5iK,263,opinion,1,263,Do you think Trump should run for president in 2024?,R_1d6uBSESDeTg5iK-opinion-263,263-1-263
+R_zVaaRe4jsertFT3,264,opinion,1,264,What is your opinion on when life begins in the womb?,R_zVaaRe4jsertFT3-opinion-264,264-1-264
+R_1NyytHPHUWR2CAW,265,opinion,1,265,Which political party did you vote for last election,R_1NyytHPHUWR2CAW-opinion-265,265-1-265
+R_yOp7Vp42QKwTHSV,266,opinion,1,266,Are trans-women really women?,R_yOp7Vp42QKwTHSV-opinion-266,266-1-266
+R_51pnrZ7nyv2ikPD,267,opinion,1,267,How would you defend your stance to someone who feels differently than you?,R_51pnrZ7nyv2ikPD-opinion-267,267-1-267
+R_2ZJohgHbTcQWK60,268,opinion,1,268,How do you feel about the purchase of Twitter by Elon Musk?,R_2ZJohgHbTcQWK60-opinion-268,268-1-268
+R_3smPWn3lpQafeJN,269,opinion,1,269,How do you think the current president is doing?,R_3smPWn3lpQafeJN-opinion-269,269-1-269
+R_3EKZlerQ2LDeWEZ,270,opinion,1,270,What are your thoughts on medically assisted suicide?,R_3EKZlerQ2LDeWEZ-opinion-270,270-1-270
+R_3I6U15hcYK1F7A5,271,opinion,1,271,"If you wanted to have an abortion, what would it take for you to choose giving birth?",R_3I6U15hcYK1F7A5-opinion-271,271-1-271
+R_2465s37cs34pjb4,272,opinion,1,272,Do you support the overturning of Roe V. Wade by the Supreme Court?,R_2465s37cs34pjb4-opinion-272,272-1-272
+R_2YzAYqXdUb0hTM6,273,opinion,1,273,Should abortion be legal,R_2YzAYqXdUb0hTM6-opinion-273,273-1-273
+R_2sbu8Gb6Vz5UiNh,274,opinion,1,274,What are the main threats of climate change?,R_2sbu8Gb6Vz5UiNh-opinion-274,274-1-274
+R_1JDfFLTyYDaxQOs,275,opinion,1,275,do you think all people are very honest,R_1JDfFLTyYDaxQOs-opinion-275,275-1-275
+R_24vKEsHOE2xjIqE,276,opinion,1,276,How do you feel about a woman's right to control what happens to their body during pregnancy?,R_24vKEsHOE2xjIqE-opinion-276,276-1-276
+R_7NVEhv3HhKRvFLz,277,opinion,1,277,What is your opinion on access to safe and affordable abortions in the US?,R_7NVEhv3HhKRvFLz-opinion-277,277-1-277
+R_1mUi1nbhVXUDzxy,278,opinion,1,278,What would you do to improve the economy?,R_1mUi1nbhVXUDzxy-opinion-278,278-1-278
+R_e4CBXeu3dkrcXND,279,opinion,1,279,How do you feel about a woman's life being in danger because she lives in a state that bans abortion and her pregnancy could end up killing her?,R_e4CBXeu3dkrcXND-opinion-279,279-1-279
+R_2VHBOG7QcFnqQQ1,280,opinion,1,280,What is your political orientation?,R_2VHBOG7QcFnqQQ1-opinion-280,280-1-280
+R_21ghb3MWimj14dC,281,opinion,1,281,Where do you stand on the abortion debate?,R_21ghb3MWimj14dC-opinion-281,281-1-281
+R_1I4rGYNbrojVyYg,282,opinion,1,282,"Do you agree with getting a vaccine, and why?",R_1I4rGYNbrojVyYg-opinion-282,282-1-282
+R_1Oxz4BnAOnmRyxA,283,opinion,1,283,How do you feel about Kanye West's current viewpoints on the Jewish community?,R_1Oxz4BnAOnmRyxA-opinion-283,283-1-283
+R_2pS7bVwzrA3vpuw,284,opinion,1,284,animal rights,R_2pS7bVwzrA3vpuw-opinion-284,284-1-284
+R_xDv9M0V9l7Ao34t,285,opinion,1,285,How do you feel about the death penalty?,R_xDv9M0V9l7Ao34t-opinion-285,285-1-285
+R_3Egn0qg9mKEbEwx,286,opinion,1,286,What are your thoughts on gay marriage?,R_3Egn0qg9mKEbEwx-opinion-286,286-1-286
+R_AbKOOXiPhgNcwzn,287,opinion,1,287,What do you think of Donald Trump?,R_AbKOOXiPhgNcwzn-opinion-287,287-1-287
+R_b1maCOPjgRvOY9z,288,opinion,1,288,Are you for or against abortion?,R_b1maCOPjgRvOY9z-opinion-288,288-1-288
+R_1qfje7H2TzkK1Uc,289,opinion,1,289,"Sometimes we hold beliefs that we know not everyone agrees with. In a few sentences, could you describe a belief you hold that may be seen as controversial?",R_1qfje7H2TzkK1Uc-opinion-289,289-1-289
+R_1gI2btT0Kj2NCY0,290,opinion,1,290,Why/why not do you believe that abortion is immoral?,R_1gI2btT0Kj2NCY0-opinion-290,290-1-290
+R_3sgZ42NfCy4ZCFp,291,opinion,1,291,Would you sell a gun to a psychopath?,R_3sgZ42NfCy4ZCFp-opinion-291,291-1-291
+R_PMWsLdH70FgyOuB,292,opinion,1,292,Do you believe in climate change?,R_PMWsLdH70FgyOuB-opinion-292,292-1-292
+R_p6tc1G5nr92NO49,293,opinion,1,293,Do you think abortions should be a protected right and why?,R_p6tc1G5nr92NO49-opinion-293,293-1-293
+R_3R7OKQ6FdkZoobY,294,opinion,1,294,Why do you think media blames gun rights and gun manufacturers and not mental illness for mass shootings?,R_3R7OKQ6FdkZoobY-opinion-294,294-1-294
+R_vNMkjjQgOZnzDYB,295,opinion,1,295,Do you believe the government should do more or less about global warming?,R_vNMkjjQgOZnzDYB-opinion-295,295-1-295
+R_2ALJCEMwLgapMSX,296,opinion,1,296,What is your opinion on abortion?,R_2ALJCEMwLgapMSX-opinion-296,296-1-296
+R_798vUJFTiGs2Hi9,297,opinion,1,297,What changes do you think the government should take to further the use of renewable energy?,R_798vUJFTiGs2Hi9-opinion-297,297-1-297
+R_2P6SSPdMFR2Wa6r,298,opinion,1,298,What is your opinion about abortion?,R_2P6SSPdMFR2Wa6r-opinion-298,298-1-298
+R_O0ys4K3QQtOMKnT,299,opinion,1,299,How do you feel the government should address the national mental health crisis,R_O0ys4K3QQtOMKnT-opinion-299,299-1-299
+R_11Zwy4mpWgpGzRC,300,opinion,1,300,Do you think global warming is real,R_11Zwy4mpWgpGzRC-opinion-300,300-1-300
+R_3R7N90BKBm5yBko,301,opinion,1,301,What is your opinion of the reversal of Roe V Wade and the abortion issue?,R_3R7N90BKBm5yBko-opinion-301,301-1-301
+R_2zI5190DVNFLYOt,302,opinion,1,302,How do you feel about climate change?,R_2zI5190DVNFLYOt-opinion-302,302-1-302
+R_1lgTq8ZkqJmTZCN,303,opinion,1,303,Why do/don't you support abortion?,R_1lgTq8ZkqJmTZCN-opinion-303,303-1-303
+R_2uKgLgRs9trWHC5,304,opinion,1,304,How do you feel about the recent changes in the US abortion laws?,R_2uKgLgRs9trWHC5-opinion-304,304-1-304
+R_2Xaf2LtyeZhkkGc,305,opinion,1,305,Do you believe there should be more gun safety laws?,R_2Xaf2LtyeZhkkGc-opinion-305,305-1-305
+R_22nt0sdkjWpQsBb,306,opinion,1,306,What makes capital punishment just or unjust?,R_22nt0sdkjWpQsBb-opinion-306,306-1-306
+R_1f9iaObMUsWWCls,307,opinion,1,307,Was 9/11 an inside job?,R_1f9iaObMUsWWCls-opinion-307,307-1-307
+R_1Le2ILbiC4BjOKZ,308,opinion,1,308,What is your opinion on gun control and why?,R_1Le2ILbiC4BjOKZ-opinion-308,308-1-308
+R_sL6SxtNKeEpQgV3,309,opinion,1,309,Please write a bit about your opinion of the Supreme Court's decision on Roe v. Wade,R_sL6SxtNKeEpQgV3-opinion-309,309-1-309
+R_2xDIHvgiI5mxJrA,310,opinion,1,310,What are your thoughts on abortion.,R_2xDIHvgiI5mxJrA-opinion-310,310-1-310
+R_2xVO6KL9mEaCJDG,311,opinion,1,311,Do you believe Balenciaga should be taken off the market an investigated for possible child exploitation?,R_2xVO6KL9mEaCJDG-opinion-311,311-1-311
+R_3kzYkgbS9bH3WgJ,312,opinion,1,312,Do you have a limit on freedom of speech and if so what is it?,R_3kzYkgbS9bH3WgJ-opinion-312,312-1-312
+R_QhTT3b4ZpBzxVuh,313,opinion,1,313,How do you feel about billionaires like Bezos and Musk spending so much money on rockets going to space?,R_QhTT3b4ZpBzxVuh-opinion-313,313-1-313
+R_1qgJvXOwbBV7NQS,314,opinion,1,314,How much to you agree/disagree with the following statement(s)?,R_1qgJvXOwbBV7NQS-opinion-314,314-1-314
+R_1qf811QhpbAFSnD,315,opinion,1,315,"When confronted with a controversial issue, how do you respond to someone that has an opposing viewpoint",R_1qf811QhpbAFSnD-opinion-315,315-1-315
+R_2ZP7VQKs08rDumg,316,opinion,1,316,What would be your biggest concern with the Federal Government subsidizing and overseeing a universal healthcare system with no premiums or insurance company gatekeepers?,R_2ZP7VQKs08rDumg-opinion-316,316-1-316
+R_27EHGUe5EAIvPVb,317,opinion,1,317,Up to how many weeks should abortion be available?,R_27EHGUe5EAIvPVb-opinion-317,317-1-317
+R_3kEUiz4dklob6Cp,318,opinion,1,318,What are your thoughts about racism?,R_3kEUiz4dklob6Cp-opinion-318,318-1-318
+R_2YmNrUOKqIPZ7A7,319,opinion,1,319,What do you think about the recent infighting in America over abortion?,R_2YmNrUOKqIPZ7A7-opinion-319,319-1-319
+R_3szCgigBNKvg6iK,320,opinion,1,320,Do you agree with the abortion ban decision of the Supreme Court?,R_3szCgigBNKvg6iK-opinion-320,320-1-320
+R_25EZlZBD0cCkhXL,321,opinion,1,321,Can you tell us how you feel about the statements Kanye West has been making lately?,R_25EZlZBD0cCkhXL-opinion-321,321-1-321
+R_SK5S1BqrcBvTXz3,322,opinion,1,322,What do you think about teenagers having abortion?,R_SK5S1BqrcBvTXz3-opinion-322,322-1-322
+R_1QFUtOOpAcfoR5H,323,opinion,1,323,How do you view the rise in inflation?,R_1QFUtOOpAcfoR5H-opinion-323,323-1-323
+R_1oioA4MP04RtdAp,324,opinion,1,324,"What are your nuanced, and unbiased thoughts on abortion?",R_1oioA4MP04RtdAp-opinion-324,324-1-324
+R_3L1r18nN1u6kyNl,325,opinion,1,325,Do you think the death penalty should be abolished altogether?,R_3L1r18nN1u6kyNl-opinion-325,325-1-325
+R_2ePaMVJrN0ZuHBX,326,opinion,1,326,What is your opinion on a touchy subject?,R_2ePaMVJrN0ZuHBX-opinion-326,326-1-326
+R_11i0Qflr5Gn7cHj,327,opinion,1,327,what is your opinion relative to illegal immigration?,R_11i0Qflr5Gn7cHj-opinion-327,327-1-327
+R_3KSA6nog0Vcz6uS,328,opinion,1,328,What is your opinion on same sex marriage?,R_3KSA6nog0Vcz6uS-opinion-328,328-1-328
+R_2zqm2BVH1d0V9Q6,329,opinion,1,329,Why are Democrats allowed to get away with everything and republicans constantly persecuted?,R_2zqm2BVH1d0V9Q6-opinion-329,329-1-329
+R_27IRacN0GQ00foD,330,opinion,1,330,"There are varying opinions on this issue, do you agree or disagree and for what reason?",R_27IRacN0GQ00foD-opinion-330,330-1-330
+R_3rIiV9LUqoa89xg,331,opinion,1,331,Do you get into arguments often,R_3rIiV9LUqoa89xg-opinion-331,331-1-331
+R_1LHUaknAqiBqLME,332,opinion,1,332,Should we close the southern border?,R_1LHUaknAqiBqLME-opinion-332,332-1-332
+R_1DOUS3f8YAHcQN8,333,opinion,1,333,Please write about a topic you feel very strongly about,R_1DOUS3f8YAHcQN8-opinion-333,333-1-333
+R_3mmjUZAqZRjXCF8,334,opinion,1,334,How do you feel about a controversial issue?,R_3mmjUZAqZRjXCF8-opinion-334,334-1-334
+R_3Dp5bbfmPTz44dS,335,opinion,1,335,Why should abortion not be banned in the United States?,R_3Dp5bbfmPTz44dS-opinion-335,335-1-335
+R_uy4dzpR0RVCMihr,336,opinion,1,336,what do you believe can be done about mass shootings?,R_uy4dzpR0RVCMihr-opinion-336,336-1-336
+R_27d6rqAJ5LQ7yHE,337,opinion,1,337,What do you think about believes.,R_27d6rqAJ5LQ7yHE-opinion-337,337-1-337
+R_1kZG1iLiHNmquiL,338,opinion,1,338,"For you, the cut off point to allow legal abortion is: __weeks",R_1kZG1iLiHNmquiL-opinion-338,338-1-338
+R_2QuIuFtL6z3Axue,339,opinion,1,339,Would you vote for an otherwise qualified candidate who disagreed with you on this issue?,R_2QuIuFtL6z3Axue-opinion-339,339-1-339
+R_1IEocFE0Idnx7Gj,340,opinion,1,340,Ask about a issue that they have a strong opinions about.,R_1IEocFE0Idnx7Gj-opinion-340,340-1-340
+R_22FVoVsxp0odcFc,341,opinion,1,341,What is the the one controversial issue you feel the most passionate about?,R_22FVoVsxp0odcFc-opinion-341,341-1-341
+R_2AGWgPvyzBrlcb8,342,opinion,1,342,How do you feel about late stage abortions?,R_2AGWgPvyzBrlcb8-opinion-342,342-1-342
+R_3GqfvwZisvBFo0D,343,opinion,1,343,Do you think abortion should be legal?,R_3GqfvwZisvBFo0D-opinion-343,343-1-343
+R_2UXIiPguhbcQGN8,344,opinion,1,344,What is your opinion on the death penalty?,R_2UXIiPguhbcQGN8-opinion-344,344-1-344
+R_2U0gEnTkuaFm73R,345,opinion,1,345,Is it possible for someone to believe opposing doctrines?,R_2U0gEnTkuaFm73R-opinion-345,345-1-345
+R_2ZBTNiOP8YDY9Z3,346,opinion,1,346,do you believe aliens exist?,R_2ZBTNiOP8YDY9Z3-opinion-346,346-1-346
+R_2q3IZI7xSzGPyab,347,opinion,1,347,How has the Dobbs decision impacted you since it was completed?,R_2q3IZI7xSzGPyab-opinion-347,347-1-347
+R_Q9rXxbqerJnSk1j,348,opinion,1,348,What is your skepticism concerning abortion?,R_Q9rXxbqerJnSk1j-opinion-348,348-1-348
+R_3mfwPeoNicjZULN,349,opinion,1,349,Please describe your thoughts on hospitals limiting and/or restricting visitors due to the uprise in Covid 19,R_3mfwPeoNicjZULN-opinion-349,349-1-349
+R_RfZbfeho6eel02d,350,opinion,1,350,What would it take for you to change your mind on abortion?,R_RfZbfeho6eel02d-opinion-350,350-1-350
+R_rjr0JNv2MaLUKVb,351,opinion,1,351,What would you say is the best argument for abortions being readily available to all women who want that option?,R_rjr0JNv2MaLUKVb-opinion-351,351-1-351
+R_OHhEu7e3L7oRJiV,352,opinion,1,352,Do you support abortion in all circumstances?,R_OHhEu7e3L7oRJiV-opinion-352,352-1-352
+R_1mVntHgTjOnwqWu,353,opinion,1,353,What are the main causes of global warming?,R_1mVntHgTjOnwqWu-opinion-353,353-1-353
+R_2AR6l7Mcm0kWF9T,354,opinion,1,354,How do you feel about gun control in one to two sentences?,R_2AR6l7Mcm0kWF9T-opinion-354,354-1-354
+R_2VEowmvxCfPSfqQ,355,opinion,1,355,Should we make owning guns illegal?,R_2VEowmvxCfPSfqQ-opinion-355,355-1-355
+R_UFLVO5tQCwzG9wZ,356,opinion,1,356,Do you think that women should be able to be in charge of their reproduction . Why,R_UFLVO5tQCwzG9wZ-opinion-356,356-1-356
+R_1FRFBsTOdMcNRhQ,357,opinion,1,357,What did you think about the reversal of Roe Vs Wade?,R_1FRFBsTOdMcNRhQ-opinion-357,357-1-357
+R_3LXWWZNH98H2ljv,358,opinion,1,358,How do you feel about hiring employees based on diversity and gender ?,R_3LXWWZNH98H2ljv-opinion-358,358-1-358
+R_1pAV6cQpM2vdrjQ,359,opinion,1,359,"When it comes to abortion, are you pro-choice or pro-life?",R_1pAV6cQpM2vdrjQ-opinion-359,359-1-359
+R_1LLnGqQQfiXoCxR,360,opinion,1,360,What is your stance on this issue and why do you feel that way?,R_1LLnGqQQfiXoCxR-opinion-360,360-1-360
+R_rp5jJaUiQ06DWmt,361,opinion,1,361,"Do you think torture is ever justified, and if so, why?",R_rp5jJaUiQ06DWmt-opinion-361,361-1-361
+R_2SI8K9AfV6APBx1,362,opinion,1,362,Do you think Donald Trump should be allowed to run for president in 2024?,R_2SI8K9AfV6APBx1-opinion-362,362-1-362
+R_3EKGF9umZbitzGO,363,opinion,1,363,How do you feel about a 13 year old child that has been raped being denied an abortion?,R_3EKGF9umZbitzGO-opinion-363,363-1-363
+R_3KGH4ukf6mrTTLE,364,opinion,1,364,Who do you think is most responsible for the political divide in the US today?,R_3KGH4ukf6mrTTLE-opinion-364,364-1-364
+R_DV04ovA9uRwdJ7z,365,opinion,1,365,When do you believe life begins?,R_DV04ovA9uRwdJ7z-opinion-365,365-1-365
+R_2AFtxMFFaetnpK1,366,opinion,1,366,If a politician is found buying votes to win an election what would you do?,R_2AFtxMFFaetnpK1-opinion-366,366-1-366
+R_3EDSjdE3Pj55rP2,367,opinion,1,367,"How would you describe the term ""marriage'?",R_3EDSjdE3Pj55rP2-opinion-367,367-1-367
+R_3hiNiEznfLNJU6p,368,opinion,1,368,How do you feel about abortion?,R_3hiNiEznfLNJU6p-opinion-368,368-1-368
+R_DSq4cg9uNRAhHqN,369,opinion,1,369,In what situation or situations is abortion acceptable?,R_DSq4cg9uNRAhHqN-opinion-369,369-1-369
+R_SCUZp4Y0PIkAtUt,370,opinion,1,370,What are your feelings on the recent vacating of Roe v. Wade?,R_SCUZp4Y0PIkAtUt-opinion-370,370-1-370
+R_3PsOF2jKLcrkOga,371,opinion,1,371,How do you believe people who support abortion feel about the Roe vs wade reversal.,R_3PsOF2jKLcrkOga-opinion-371,371-1-371
+R_1LGTjvXaN2Caxaz,372,opinion,1,372,What is the best way to convince a woman not to have an abortion?,R_1LGTjvXaN2Caxaz-opinion-372,372-1-372
+R_3ErSPjX2RnhDOAN,373,opinion,1,373,What is it about this topic that upsets you without assigning blame?,R_3ErSPjX2RnhDOAN-opinion-373,373-1-373
+R_2UW8A6aEZnotEwd,374,opinion,1,374,Would you pay for your partner's abortion?,R_2UW8A6aEZnotEwd-opinion-374,374-1-374
+R_57NHSlXxT1FHvrz,375,opinion,1,375,Abortion,R_57NHSlXxT1FHvrz-opinion-375,375-1-375
+R_1M5PDrWN6BzW7mb,376,opinion,1,376,,R_1M5PDrWN6BzW7mb-opinion-376,376-1-376
+R_XvN7OWfonXQcpR7,377,opinion,1,377,Why are you for or against abortion?,R_XvN7OWfonXQcpR7-opinion-377,377-1-377
+R_1lmFRKQEW5rvJwv,378,opinion,1,378,Why do you support or not support the death penalty?,R_1lmFRKQEW5rvJwv-opinion-378,378-1-378
+R_12AaOeVlHTvXK6I,379,opinion,1,379,What do you think about claims that the outcome 2020 Presidential election was skewed by voter fraud?,R_12AaOeVlHTvXK6I-opinion-379,379-1-379
+R_2tutJm21PvlRUr3,380,opinion,1,380,Please explain in detail how you feel about ______,R_2tutJm21PvlRUr3-opinion-380,380-1-380
+R_22n4vTWBZwkaOCA,381,opinion,1,381,"Your views are completely confidential, so please feel free to answer honestly! What are your views on abortion?",R_22n4vTWBZwkaOCA-opinion-381,381-1-381
+R_1jrmDYJgTPeWADs,382,opinion,1,382,"If God is seen as ""all good"", why do horrible things happen to innocent people?",R_1jrmDYJgTPeWADs-opinion-382,382-1-382
+R_3sokrJA3mXIn5I9,383,opinion,1,383,What is your opinion on abortion rights?,R_3sokrJA3mXIn5I9-opinion-383,383-1-383
+R_daiAelwFv7tnag1,384,opinion,1,384,Is your view on abortion come from your faith or church teachings?,R_daiAelwFv7tnag1-opinion-384,384-1-384
+R_3KHHNBdqIrI7Rtg,385,opinion,1,385,What do you feel when singing the national anthem?,R_3KHHNBdqIrI7Rtg-opinion-385,385-1-385
+R_6tKvXMkyt3wCsdX,386,opinion,1,386,At what point does life start for a human in your opinion?,R_6tKvXMkyt3wCsdX-opinion-386,386-1-386
+R_20PaJOn1yEbVoGi,387,opinion,1,387,What could we do about social inequality as it relates to a specific area of inequality?,R_20PaJOn1yEbVoGi-opinion-387,387-1-387
+R_3Ep3mgtdMNm2WVf,388,opinion,1,388,How do we begin to resolve the partisan divide in the US?,R_3Ep3mgtdMNm2WVf-opinion-388,388-1-388
+R_2Bm9MNqnsR4ODCS,389,opinion,1,389,what is going on social media,R_2Bm9MNqnsR4ODCS-opinion-389,389-1-389
+R_2Ec5VRNCQ8H69ON,390,opinion,1,390,"if you believe that abortion should be illegal in all states, would you be willing to support/adopt or take on an unwanted child from someone who cannot get an abortion today? If no, why?",R_2Ec5VRNCQ8H69ON-opinion-390,390-1-390
+R_9zzr4EdeaaFMzrr,391,opinion,1,391,How will global warming affect future generations?,R_9zzr4EdeaaFMzrr-opinion-391,391-1-391
+R_3oNkaoAnmKCAC6i,392,opinion,1,392,Will democracy in America last another 100 years?,R_3oNkaoAnmKCAC6i-opinion-392,392-1-392
+R_9zWHiUiBazvrAhr,393,opinion,1,393,How do you feel when you meet a same-sex couple?,R_9zWHiUiBazvrAhr-opinion-393,393-1-393
+R_12wYvkMmWGRyfyX,394,opinion,1,394,How do you feel about abortion?,R_12wYvkMmWGRyfyX-opinion-394,394-1-394
+R_02R7JC6wuwKlV7P,395,opinion,1,395,What are your thoughts on Roe vs Wade?,R_02R7JC6wuwKlV7P-opinion-395,395-1-395
+R_1JD9NIVFtUCbIyA,396,opinion,1,396,Do you believe Biden won the 2016 election?,R_1JD9NIVFtUCbIyA-opinion-396,396-1-396
+R_RxhYly3XjWOS8Vz,397,opinion,1,397,Donald Trump make racism more acceptable during his Presidency. What is your opinion on this statement?,R_RxhYly3XjWOS8Vz-opinion-397,397-1-397
+R_2B8sZv671EuGU37,398,opinion,1,398,How do you feel about killing babies because they can't afford one ??,R_2B8sZv671EuGU37-opinion-398,398-1-398
+R_1MXtjG7ty6rfZ7l,399,opinion,1,399,What are your thoughts on abortion?,R_1MXtjG7ty6rfZ7l-opinion-399,399-1-399
+R_2P1O6OniGGaNyPX,400,opinion,1,400,What do you think of climate change?,R_2P1O6OniGGaNyPX-opinion-400,400-1-400
+R_31bVhjckgOXfBnK,401,opinion,1,401,Why do you believe this?,R_31bVhjckgOXfBnK-opinion-401,401-1-401
+R_dnxmP6oXT5IpFhD,402,opinion,1,402,"Should there be a limit on immigration in America and if so, what is the limit?",R_dnxmP6oXT5IpFhD-opinion-402,402-1-402
+R_2TMh3bafHxo3VEM,403,opinion,1,403,How do you feel about women having the right to have abortion?,R_2TMh3bafHxo3VEM-opinion-403,403-1-403
+R_2akpf3V6d279gbF,404,opinion,1,404,Please select the answer that best describe your opinion on the following issue,R_2akpf3V6d279gbF-opinion-404,404-1-404
+R_3kKPGHOeGus0WrV,405,opinion,1,405,Life begins at conception.,R_3kKPGHOeGus0WrV-opinion-405,405-1-405
+R_D14zlXxtjQpUvPr,406,opinion,1,406,Do you think states should have the right to say abortions are against the law?,R_D14zlXxtjQpUvPr-opinion-406,406-1-406
+R_3NwANaZhDqYfTZ7,407,opinion,1,407,How do you feel about controversial issues?,R_3NwANaZhDqYfTZ7-opinion-407,407-1-407
+R_25XSBShJYdgXt9T,408,opinion,1,408,How would you feel if Donald Trump ran for president in the next election?,R_25XSBShJYdgXt9T-opinion-408,408-1-408
+R_1LhDdHrS0KNuRTW,409,opinion,1,409,Any question regarding abortion,R_1LhDdHrS0KNuRTW-opinion-409,409-1-409
+R_3NOG2i7BfSxGtY8,410,opinion,1,410,At what point would you agree that an abortion is too late to perform?,R_3NOG2i7BfSxGtY8-opinion-410,410-1-410
+R_3kLj4qRkfCUzYpf,411,opinion,1,411,Please answer the following question on a scale of 1-10 with one being Totally disagree to ten being totally agree: Abortion should only be allowed under very specific conditions.,R_3kLj4qRkfCUzYpf-opinion-411,411-1-411
+R_1KpfgNAoiiGcrFE,412,opinion,1,412,Are you for or against abortion?,R_1KpfgNAoiiGcrFE-opinion-412,412-1-412
+R_22yQMrcUhLXjQiZ,413,opinion,1,413,What are your feelings regarding outlawing abortion?,R_22yQMrcUhLXjQiZ-opinion-413,413-1-413
+R_2CIiQOcZOwTlV4j,414,opinion,1,414,Do you believe abortion rights should be protected?,R_2CIiQOcZOwTlV4j-opinion-414,414-1-414
+R_2zqAA5GGrpaHc2Y,415,opinion,1,415,"What is your stance on if abortions should be legal, and why?",R_2zqAA5GGrpaHc2Y-opinion-415,415-1-415
+R_Oj7SgX0WiOK8hup,416,opinion,1,416,Why is abortion used on such a frequent basis when ideally it should be a last resort in a dire situation?,R_Oj7SgX0WiOK8hup-opinion-416,416-1-416
+R_wZr81SgmLf7heiB,417,opinion,1,417,What is your opinion on raw milk being illegal?,R_wZr81SgmLf7heiB-opinion-417,417-1-417
+R_2axHhrKZlQg6v5v,418,opinion,1,418,Do you feel good about the current economic situation in the United States?,R_2axHhrKZlQg6v5v-opinion-418,418-1-418
+R_blWnVAyAtqByecx,419,opinion,1,419,"How do you feel about legislation that sets length of pregnancy limits on abortion regulations, such as abortions only allowed until the twelfth week of pregnancy?",R_blWnVAyAtqByecx-opinion-419,419-1-419
+R_x9nO9Ncruw7TwhH,420,opinion,1,420,What are your beliefs about the death penalty?,R_x9nO9Ncruw7TwhH-opinion-420,420-1-420
+R_yjzTekJImdNWixr,421,opinion,1,421,"What did the authors of the Constitution mean by ""well-regulated militia"" in the 2nd Amendment?",R_yjzTekJImdNWixr-opinion-421,421-1-421
+R_Wkh4ZRc96JdKWIN,422,opinion,1,422,List some ways in which you think a Christian theocracy would be different from or better than Sharia law.,R_Wkh4ZRc96JdKWIN-opinion-422,422-1-422
+R_3PzQmJmHHoegjms,423,opinion,1,423,"In 2 or 3 sentences, can you tell us your view concerning the January 6 insurrection?",R_3PzQmJmHHoegjms-opinion-423,423-1-423
+R_1lxUM8Wp91s78cb,424,opinion,1,424,Is cloning humans immoral? Why or why not?,R_1lxUM8Wp91s78cb-opinion-424,424-1-424
+R_wYquX9BraGghxIt,425,opinion,1,425,What issue do you find most controversial?,R_wYquX9BraGghxIt-opinion-425,425-1-425
+R_1Qz0BuUIrAxP3CX,426,opinion,1,426,Do you feel that there should be any restrictions on abortion?,R_1Qz0BuUIrAxP3CX-opinion-426,426-1-426
+R_2Y8J1auyaugxyFu,427,opinion,1,427,"When do you think life begins, at conception, at the first signs of viability, or at a later point?",R_2Y8J1auyaugxyFu-opinion-427,427-1-427
+R_9n4VMPuMq8vZLpL,428,opinion,1,428,At what point in a pregnancy should abortion be banned?,R_9n4VMPuMq8vZLpL-opinion-428,428-1-428
+R_s5yCQkZjdAdSYOl,429,opinion,1,429,"How has the aftermath of the January 6th insurrection affected people's idea of a ""United"" America",R_s5yCQkZjdAdSYOl-opinion-429,429-1-429
+R_wN7pLhn7IrAVmmZ,430,opinion,1,430,what explains Americans fascination for guns,R_wN7pLhn7IrAVmmZ-opinion-430,430-1-430
+R_2PzmL4g4iIDgrmg,431,opinion,1,431,minors receiving gender reassignment,R_2PzmL4g4iIDgrmg-opinion-431,431-1-431
+R_3PHnt1UT6nObZ8t,432,opinion,1,432,Do you think we are getting too much information about sexual identity?,R_3PHnt1UT6nObZ8t-opinion-432,432-1-432
+R_10T8gjhJITU0OZi,433,opinion,1,433,What are you opinions concerning trans-rights,R_10T8gjhJITU0OZi-opinion-433,433-1-433
+R_3fdWDD1QFAoJ5XT,434,opinion,1,434,Why are whites so afraid of Blacks?,R_3fdWDD1QFAoJ5XT-opinion-434,434-1-434
+R_2wN2SWRisxJRKiE,435,opinion,1,435,Should the January 6 committee remain?,R_2wN2SWRisxJRKiE-opinion-435,435-1-435
+R_1eODvpzU9JgwyjT,436,opinion,1,436,How do you feel about allowing minors access to puberty blockers with doctor approval?,R_1eODvpzU9JgwyjT-opinion-436,436-1-436
+R_1hQoNgz7qR59i73,437,opinion,1,437,what is your believe,R_1hQoNgz7qR59i73-opinion-437,437-1-437
+R_0BQyd3qoHwWLlu1,438,opinion,1,438,"What do you think when you hear the phrase ""climate change""?",R_0BQyd3qoHwWLlu1-opinion-438,438-1-438
+R_3hgolmBsd0YiStL,439,opinion,1,439,What do you think about abortion?,R_3hgolmBsd0YiStL-opinion-439,439-1-439
+R_3sAmRR7fRT6q0zV,440,opinion,1,440,How do you feel about the Twitter files?,R_3sAmRR7fRT6q0zV-opinion-440,440-1-440
+R_2nKgy5gvqSr7jah,441,opinion,1,441,Do you believe that laws against abortion and birth control should be imposed against the entire country based on one set of religious beliefs?,R_2nKgy5gvqSr7jah-opinion-441,441-1-441
+R_2YhQikqNQYUvcYs,442,opinion,1,442,What is your opinion of abortion rights?,R_2YhQikqNQYUvcYs-opinion-442,442-1-442
+R_3FRnPUapTihnhh6,443,opinion,1,443,Do you think that Donald Trump should be penalized for tax fraud?,R_3FRnPUapTihnhh6-opinion-443,443-1-443
+R_1ezVnNMnmnFQf93,444,opinion,1,444,For what reasons is it okay for some women to have an abortion?,R_1ezVnNMnmnFQf93-opinion-444,444-1-444
+R_UYcGfvjA3BL01Lb,445,opinion,1,445,Do you think AR 15 guns should be banned.,R_UYcGfvjA3BL01Lb-opinion-445,445-1-445
+R_026gPWh00a2r7KV,446,opinion,1,446,What they think about political situation in the world,R_026gPWh00a2r7KV-opinion-446,446-1-446
+R_3NVy4kGxD3wSAXF,447,opinion,1,447,What are the benefits to the overturn of Roe v Wade and Dobbs decision,R_3NVy4kGxD3wSAXF-opinion-447,447-1-447
+R_3dSoOCC4CietQ2H,448,opinion,1,448,Where do you stand on abortion?,R_3dSoOCC4CietQ2H-opinion-448,448-1-448
+R_eVPUvgAXzzqGL6x,449,opinion,1,449,What are your thoughts on gun control?,R_eVPUvgAXzzqGL6x-opinion-449,449-1-449
+R_2z8Rv2ulV2ozKW3,450,opinion,1,450,How do you feel about gun control?,R_2z8Rv2ulV2ozKW3-opinion-450,450-1-450
+R_2D2oSuwKApXH0oa,451,opinion,1,451,When do you believe human life begins and why?,R_2D2oSuwKApXH0oa-opinion-451,451-1-451
+R_2VBCa3Rln7pBOEZ,452,opinion,1,452,Under what circumstances do you think it should be legal for a woman to get an abortion?,R_2VBCa3Rln7pBOEZ-opinion-452,452-1-452
+R_3dYSQVNnRq1Qh8U,453,opinion,1,453,Why should assault weapons still be available for sale when so many people are being killed by them?,R_3dYSQVNnRq1Qh8U-opinion-453,453-1-453
+R_3GDIih7u1rpy7L3,454,opinion,1,454,"What are your thoughts about the current ""quiet quitting"" environment?",R_3GDIih7u1rpy7L3-opinion-454,454-1-454
+R_2YsjNSWKnjZL1df,455,opinion,1,455,would you want the death penalty for someone who murdered a loved one,R_2YsjNSWKnjZL1df-opinion-455,455-1-455
+R_9nPCGO0sE0wwaT7,456,opinion,1,456,Is your answer to controversial issues based upon your politics or your heartfelt beliefs and why?,R_9nPCGO0sE0wwaT7-opinion-456,456-1-456
+R_1hNpJlxLd7ZY7NL,457,opinion,1,457,How do you feel about the situation at the US/Mexico border?,R_1hNpJlxLd7ZY7NL-opinion-457,457-1-457
+R_cN2DWCm7IhOJsgp,458,opinion,1,458,What is your opinion of the Green New Deal?,R_cN2DWCm7IhOJsgp-opinion-458,458-1-458
+R_pmTGTyQmP1NzqDf,459,opinion,1,459,Why do Republicans seem to like to discredit science.,R_pmTGTyQmP1NzqDf-opinion-459,459-1-459
+R_1jdnX9ctG24Loxs,460,opinion,1,460,what is your personal opinion on the overturning of Roe vs. Wade?,R_1jdnX9ctG24Loxs-opinion-460,460-1-460
+R_3dM5HCj4GyKK5bE,461,opinion,1,461,"What did you think of the attempted coup on the Capitol on January 6, 2021?",R_3dM5HCj4GyKK5bE-opinion-461,461-1-461
+R_3hseLx0Sy0VlEOw,462,opinion,1,462,How do you feel about gun control?,R_3hseLx0Sy0VlEOw-opinion-462,462-1-462
+R_ZJ1Gj1vXydSrOMN,463,opinion,1,463,Where do you stand on a woman's right to choose an abortion?,R_ZJ1Gj1vXydSrOMN-opinion-463,463-1-463
+R_24ua836gNUiOKJE,464,opinion,1,464,What is your opinion on abortion in the US and should it be allowed in almost all circumstances?,R_24ua836gNUiOKJE-opinion-464,464-1-464
+R_2SrGIpvBL6sWlnv,465,opinion,1,465,What are 3 reasons that support your opinion on having a right to abortion?,R_2SrGIpvBL6sWlnv-opinion-465,465-1-465
+R_1ePCNXBgPxZRCaS,466,opinion,1,466,If you were to discuss this issue with someone else what do you think would be the most important points to bring up?nt,R_1ePCNXBgPxZRCaS-opinion-466,466-1-466
+R_1Nakj1RNVahLnts,467,opinion,1,467,How do you feel about illegal immigration?,R_1Nakj1RNVahLnts-opinion-467,467-1-467
+R_1LMA3rfeGvS9gCE,468,opinion,1,468,"Do you believe the 2020 Presidential Election was rigged? And either way, please explain why.",R_1LMA3rfeGvS9gCE-opinion-468,468-1-468
+R_3qDNqsc05TSQkg4,469,opinion,1,469,What do you think about abortion,R_3qDNqsc05TSQkg4-opinion-469,469-1-469
+R_2rPeUraQTMJo0rb,470,opinion,1,470,Do you agree we need stricter gun purchase requirements?,R_2rPeUraQTMJo0rb-opinion-470,470-1-470
+R_2QRqfx1KO7JCYoz,471,opinion,1,471,"Do you feel trans people are qualified to be teachers? If not, why, and if yes, why?",R_2QRqfx1KO7JCYoz-opinion-471,471-1-471
+R_3PgWbgSMw291cXe,472,opinion,1,472,Do you believe climate change is a problem,R_3PgWbgSMw291cXe-opinion-472,472-1-472
+R_1duX3Ujk8mumFau,473,opinion,1,473,Why are young people inclined to promote political correctness more than the elderly?,R_1duX3Ujk8mumFau-opinion-473,473-1-473
+R_2az7nz24McPOxwG,474,opinion,1,474,Do you believe the COVID 19 vaccinations are safe and effective?,R_2az7nz24McPOxwG-opinion-474,474-1-474
+R_3lzhG9pCaRQ2RTe,475,opinion,1,475,What was your reaction the the Supreme Court ruling on abortion?,R_3lzhG9pCaRQ2RTe-opinion-475,475-1-475
+R_yVg9ZQ4bemIPlfz,476,opinion,1,476,Tell us why you believe some people believe that life starts at conception,R_yVg9ZQ4bemIPlfz-opinion-476,476-1-476
+R_1jCU83nKLDmHdP7,477,opinion,1,477,Economy,R_1jCU83nKLDmHdP7-opinion-477,477-1-477
+R_0NUT8dbhA0phJKx,478,opinion,1,478,are you more comfortable having someone tell you how to think as opposed to being told what to think?,R_0NUT8dbhA0phJKx-opinion-478,478-1-478
+R_xGwNE4AUhTNUqL7,479,opinion,1,479,What are your views on abortion?,R_xGwNE4AUhTNUqL7-opinion-479,479-1-479
+R_2WP5fC1Ud0mqiMw,480,opinion,1,480,What are your opinions on lab tested/animal tested products?,R_2WP5fC1Ud0mqiMw-opinion-480,480-1-480
+R_YbN50eHvUNQ8oUN,481,opinion,1,481,What are your views on abortion access?,R_YbN50eHvUNQ8oUN-opinion-481,481-1-481
+R_1oHGhtloYvBj7FM,482,opinion,1,482,Under what conditions is it appropriate for a person to have an abortion?,R_1oHGhtloYvBj7FM-opinion-482,482-1-482
+R_BXmTncClA11KsJH,483,opinion,1,483,Ban abortion really save babies?,R_BXmTncClA11KsJH-opinion-483,483-1-483
+R_PUmmnQ6I4YWWTT3,484,opinion,1,484,What are the major reasons that other developed countries have less mass shooting than the United States?,R_PUmmnQ6I4YWWTT3-opinion-484,484-1-484
+R_8nVIe7ygxPBRsqZ,485,opinion,1,485,"What are your thought on Death penalty, should a man have a say in another man's rights to live or die please explain?",R_8nVIe7ygxPBRsqZ-opinion-485,485-1-485
+R_3DpeorHkVqrAaW4,486,opinion,1,486,You agree with the application of abortion in all states of the USA,R_3DpeorHkVqrAaW4-opinion-486,486-1-486
+R_1ex8HSlUcH7H9zf,487,opinion,1,487,Why do we tolerate illegal immigration?,R_1ex8HSlUcH7H9zf-opinion-487,487-1-487
+R_3MaGHHTL01H81J6,488,opinion,1,488,Social/ Racial/ Environmental,R_3MaGHHTL01H81J6-opinion-488,488-1-488
+R_2tFDkY78AFOXQIn,489,opinion,1,489,why would you support issue xyz,R_2tFDkY78AFOXQIn-opinion-489,489-1-489
+R_30o3Jlv6tX3tFkj,490,opinion,1,490,What are your views on legalized abortion?,R_30o3Jlv6tX3tFkj-opinion-490,490-1-490
+R_aVRifwGcrlVVLod,491,opinion,1,491,Abortion laws,R_aVRifwGcrlVVLod-opinion-491,491-1-491
+R_pKsMdRfM2HmVqKZ,492,opinion,1,492,Why are you pro choice?,R_pKsMdRfM2HmVqKZ-opinion-492,492-1-492
+R_TufqUVsUwJkjZap,493,opinion,1,493,Are you pro-choice or pro-life?,R_TufqUVsUwJkjZap-opinion-493,493-1-493
+R_1NqvGwURoEWKyuq,494,opinion,1,494,Why do you think there is a rise in hate crimes in America?,R_1NqvGwURoEWKyuq-opinion-494,494-1-494
+R_1LNlhRHqi9gYmzH,495,opinion,1,495,Should former President Trump run for President?,R_1LNlhRHqi9gYmzH-opinion-495,495-1-495
+R_1gpU8oP5R5UXsH5,496,opinion,1,496,Do you know what ballot harvesting is and what states allow ballot harvesting?,R_1gpU8oP5R5UXsH5-opinion-496,496-1-496
+R_3EX93iaHUKhl7gU,497,opinion,1,497,Why do you think the college loan forgiveness program is fair?,R_3EX93iaHUKhl7gU-opinion-497,497-1-497
+R_10qRORtUrd4qc6V,498,opinion,1,498,Should employees' social media accounts be monitored?,R_10qRORtUrd4qc6V-opinion-498,498-1-498
+R_2WAJvLXECFJylSU,499,opinion,1,499,Would you eliminate the death penalty in the United States?,R_2WAJvLXECFJylSU-opinion-499,499-1-499
+R_32YmA9UWGXwPEj6,500,opinion,1,500,Does Influencers negatively affect teenagers' body image?,R_32YmA9UWGXwPEj6-opinion-500,500-1-500
+R_ehz5BbMYwmzfCVz,501,opinion,1,501,what is your take on this issue?,R_ehz5BbMYwmzfCVz-opinion-501,501-1-501
